@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.aadeesh</groupId>
-	<artifactId>UserRegistration1</artifactId>
+	<artifactId>UserRegistrationApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UserRegistration1</name>
+	<name>UserRegistration</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
